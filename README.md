@@ -6,7 +6,8 @@ Hobbies: D&D, fantasy books, hiking, scrapbooking, rock collecting, problem solv
 
 Skills: RUBY / RAILS / VUE JS / REACT / JS / HTML / CSS
 
-![image](https://github.com/devorahortega/devorahortega/assets/91695187/5f71df4d-3602-464b-ad5e-a76e8d8b30f4)
+![image](https://github.com/devorahortega/devorahortega/assets/91695187/c2d21b7f-00f6-47ac-9da2-2312f822443e)
+
 
 
 
