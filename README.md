@@ -6,13 +6,9 @@ Hobbies: D&D, fantasy books, hiking, scrapbooking, rock collecting, problem solv
 
 Skills: RUBY / RAILS / VUE JS / REACT / JS / HTML / CSS
 
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
+<a>![Gmail](https://img.shields.io/badge/deborahb.ortega@gmail.com-355E3B?style=for-the-badge&logo=gmail&logoColor=white) </a> <a> ![LinkedIn](https://img.shields.io/badge/Devorah_Ortega-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 ![image](https://github.com/devorahortega/devorahortega/assets/91695187/517184de-4d39-4bff-8d9c-3b4d21f0e8c5)
-
 
 
 
