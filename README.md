@@ -6,7 +6,7 @@ My favorite part about writing code is exercising my creative muscle and learnin
 
 Hobbies: D&D, fantasy books, hiking, scrapbooking, rock collecting, problem solving 
 
-Skills: RUBY / RAILS / VUE JS / REACT / JS / HTML / CSS
+Skills: RUBY / RAILS / VUE JS / PYTHON / JS / HTML / CSS / PostgreSQL
 
 <a href=https://www.gmail.com/inbox>![Gmail](https://img.shields.io/badge/devorahb.ortega@gmail.com-355E3B?style=for-the-badge&logo=gmail&logoColor=white) </a> <a href=https://www.linkedin.com/in/devorahortega> ![LinkedIn](https://img.shields.io/badge/Devorah_Ortega-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
