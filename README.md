@@ -25,6 +25,10 @@ PostgreSQL
 Other Tools:
 Git | GitHub | VSCode | Figma | REST APIs | Responsive Design Principles
 
+<i class="devicon-git-plain"></i> 
+<i class="devicon-github-original"></i>
+              
+
 When I’m not deep in dev mode, you’ll probably find me:
 - Rolling dice in a game of D&D
 - Getting lost in fantasy novels
