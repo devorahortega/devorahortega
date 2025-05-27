@@ -4,7 +4,7 @@ Hello There! I'm Devorah Nina Ortega
 
 Front-End Developer | Creative Thinker | Code Enthusiast
 
-I'm a front-end developer with a passion for crafting intuitive, beautiful, and functional user experiences. I love the blend of creativity and logic that coding brings — it’s like having a conversation with a computer where the dialogue is built with design, data, and clean syntax.
+I'm a front-end developer with a passion for crafting intuitive, beautiful, and functional user experiences. I love the blend of creativity and logic that coding brings, it’s like having a conversation with a computer where the dialogue is built with design, data, and clean syntax.
 
 My favorite part of development is the creative process: transforming complex problems into clear, user-friendly solutions. Whether I'm designing a responsive interface, optimizing performance, or fine-tuning database interactions, I bring curiosity, empathy, and persistence to every challenge.
 
