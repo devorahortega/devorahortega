@@ -1,6 +1,4 @@
-![image](https://github.com/devorahortega/devorahortega/assets/91695187/ea2c5461-8514-4c01-aba7-2e70193d1133)
-
-Hello There! I'm Devorah Nina Ortega
+Hello There! I'm Devorah Nina Aberman (Ortega)
 
 Front-End Developer | Creative Thinker | Code Enthusiast
 
