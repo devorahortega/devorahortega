@@ -36,9 +36,8 @@ These hobbies inspire my work and keep my creativity fueled.
 
 If you're working on something interesting, want to collaborate, or just want to talk tech and TTRPGs, feel free to reach out!
 
-<a href=https://www.gmail.com/inbox>![Gmail](https://img.shields.io/badge/devorahb.ortega@gmail.com-355E3B?style=for-the-badge&logo=gmail&logoColor=white) </a> <a href=https://www.linkedin.com/in/devorahortega> ![LinkedIn](https://img.shields.io/badge/Devorah_Ortega-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href=https://www.gmail.com/inbox>![Gmail](https://img.shields.io/badge/devorahb.ortega@gmail.com-355E3B?style=for-the-badge&logo=gmail&logoColor=white) </a> <a href=https://www.linkedin.com/in/devorahaberman> ![LinkedIn](https://img.shields.io/badge/Devorah_Aberman-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
-![image](https://github.com/devorahortega/devorahortega/assets/91695187/517184de-4d39-4bff-8d9c-3b4d21f0e8c5)
 
 
 
